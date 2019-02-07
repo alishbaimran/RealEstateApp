@@ -1,2 +1,2 @@
-A basic real estate dapp created for edureka blockchain course project
+A basic real estate dapp for property ownership and transfers!
 
